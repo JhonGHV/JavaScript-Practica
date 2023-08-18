@@ -1,3 +1,4 @@
+
 const reproductorAudio = document.getElementById("reproductorAudio");
 const listaCanciones = document.getElementById("listaCanciones");
 const itemsLista = listaCanciones.getElementsByTagName("li");
